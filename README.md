@@ -91,3 +91,8 @@ This project was developed using:
 ## Conclusion
 
 This project shows that used car value is influenced most strongly by mileage, age, condition, and selected vehicle attributes. With better acquisition choices and richer data collection, dealerships can improve pricing accuracy, inventory quality, and overall profitability.
+
+## Author
+**Rupanshu Satsangi**  
+UC Berkeley – ML/AI Professional Certificate Program
+
